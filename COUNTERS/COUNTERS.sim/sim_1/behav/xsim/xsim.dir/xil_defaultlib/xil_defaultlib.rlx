@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Verilog_Prac/COUNTERS/COUNTERS.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/Verilog_Prac/COUNTERS/COUNTERS.srcs/sim_1/new/up_tb.v,1758964578,verilog,,,,up_tb,,,,,,,,
+D:/Verilog_Prac/COUNTERS/COUNTERS.srcs/sim_1/new/updown_tb.v,1760378401,verilog,,,,updown_tb,,,,,,,,
+D:/Verilog_Prac/COUNTERS/COUNTERS.srcs/sources_1/new/UP_counter.v,1758964435,verilog,,D:/Verilog_Prac/COUNTERS/COUNTERS.srcs/sim_1/new/up_tb.v,,UP_counter,,,,,,,,
+D:/Verilog_Prac/COUNTERS/COUNTERS.srcs/sources_1/new/updown_counter.v,1760378528,verilog,,D:/Verilog_Prac/COUNTERS/COUNTERS.srcs/sim_1/new/updown_tb.v,,updown_counter,,,,,,,,
