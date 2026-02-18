@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/d/Verilog_Prac/FIFO/FIFO.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/d/Verilog_Prac/FIFO/FIFO.srcs/sim_1/new/Async_fifo_tb.v,1771421882,verilog,,,,Async_fifo_tb,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/d/Verilog_Prac/FIFO/FIFO.srcs/sim_1/new/Sync_fifo_tb.v,1771409401,verilog,,,,Sync_fifo_tb,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/d/Verilog_Prac/FIFO/FIFO.srcs/sources_1/new/Async_fifo.v,1771421384,verilog,,D:/d/Verilog_Prac/FIFO/FIFO.srcs/sim_1/new/Async_fifo_tb.v,,Async_fifo,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/d/Verilog_Prac/FIFO/FIFO.srcs/sources_1/new/Sync_fifo.v,1771409913,verilog,,D:/d/Verilog_Prac/FIFO/FIFO.srcs/sim_1/new/Sync_fifo_tb.v,,Sync_fifo,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

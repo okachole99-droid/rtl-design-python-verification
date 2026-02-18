@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+T=0 wr=0 rd=0 din=00 dout=00 full=0 empty=1
+T=45000 wr=1 rd=0 din=a0 dout=00 full=0 empty=1
+T=55000 wr=1 rd=0 din=a1 dout=00 full=0 empty=1
+T=65000 wr=1 rd=0 din=a2 dout=00 full=0 empty=1
+T=75000 wr=1 rd=0 din=a3 dout=00 full=0 empty=1
+T=77000 wr=1 rd=0 din=a3 dout=00 full=0 empty=0
+T=85000 wr=1 rd=0 din=a4 dout=00 full=0 empty=0
+T=95000 wr=1 rd=0 din=a5 dout=00 full=0 empty=0
+T=105000 wr=1 rd=0 din=a6 dout=00 full=0 empty=0
+T=115000 wr=1 rd=0 din=a7 dout=00 full=0 empty=0
+T=125000 wr=0 rd=0 din=a7 dout=00 full=0 empty=0
+T=133000 wr=0 rd=1 din=a7 dout=00 full=0 empty=0
+T=147000 wr=0 rd=1 din=a7 dout=a0 full=0 empty=0
+T=161000 wr=0 rd=1 din=a7 dout=a1 full=0 empty=0
+T=175000 wr=0 rd=1 din=a7 dout=a2 full=0 empty=0
+T=189000 wr=0 rd=1 din=a7 dout=a3 full=0 empty=0
+T=203000 wr=0 rd=1 din=a7 dout=a4 full=0 empty=0
+T=217000 wr=0 rd=1 din=a7 dout=a5 full=0 empty=0
