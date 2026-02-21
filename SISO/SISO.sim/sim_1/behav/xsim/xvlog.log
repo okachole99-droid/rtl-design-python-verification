@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/d/Verilog_Prac/SHIFT_REGSITERS/SISO/SISO.srcs/sources_1/new/siso.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module siso
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/d/Verilog_Prac/SHIFT_REGSITERS/SISO/SISO.srcs/sim_1/new/siso_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module siso_tb
