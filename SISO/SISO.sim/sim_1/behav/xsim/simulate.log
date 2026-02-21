@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+serial_in = 0 serial_out=0
+serial_in = 0 serial_out=1
+serial_in = 0 serial_out=0

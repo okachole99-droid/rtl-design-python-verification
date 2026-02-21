@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+Time=0 rst=0 shift=0 load=0 serial_in=0 parallel_out=0000
+Time=12000 rst=1 shift=1 load=0 serial_in=0 parallel_out=0000
+Time=22000 rst=1 shift=1 load=0 serial_in=1 parallel_out=0000
+Time=25000 rst=1 shift=1 load=0 serial_in=1 parallel_out=0001
+Time=32000 rst=1 shift=1 load=0 serial_in=0 parallel_out=0001
+Time=35000 rst=1 shift=1 load=0 serial_in=0 parallel_out=0010
+Time=42000 rst=1 shift=1 load=0 serial_in=1 parallel_out=0010
+Time=45000 rst=1 shift=1 load=0 serial_in=1 parallel_out=0101
+Time=52000 rst=1 shift=0 load=0 serial_in=1 parallel_out=0101
+Time=72000 rst=1 shift=0 load=1 serial_in=1 parallel_out=0101
+Time=75000 rst=1 shift=0 load=1 serial_in=1 parallel_out=1100
+Time=82000 rst=1 shift=1 load=0 serial_in=1 parallel_out=1100
+Time=85000 rst=1 shift=1 load=0 serial_in=1 parallel_out=1001
+Time=92000 rst=1 shift=1 load=0 serial_in=0 parallel_out=1001
+Time=95000 rst=1 shift=1 load=0 serial_in=0 parallel_out=0010
+Time=102000 rst=1 shift=0 load=0 serial_in=1 parallel_out=0010
+$finish called at time : 152 ns : File "D:/d/Verilog_Prac/SHIFT_REGSITERS/SIPO/SIPO.srcs/sim_1/new/sipo_tb.v" Line 71
