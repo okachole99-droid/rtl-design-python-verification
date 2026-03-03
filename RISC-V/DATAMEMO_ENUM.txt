@@ -1,0 +1,17 @@
+// --------------------------------------------------------
+// YARP: Package File
+//
+// The should contain all of the enums, structs or any other
+// common functions used while designing the YARP core
+// --------------------------------------------------------
+// --------------------------------------------------------
+// YARP Package
+// --------------------------------------------------------
+
+package yarp_pkg;
+  typedef enum logic[1:0]{
+    HALF=2'b01,
+    BYTE=2'b00,
+    WORD=2'b11
+  }mem_access_size_t;
+endpackage

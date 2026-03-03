@@ -1,0 +1,24 @@
+// --------------------------------------------------------
+// YARP: Package File
+//
+// The should contain all of the enums, structs or any other
+// common functions used while designing the YARP core
+// --------------------------------------------------------
+// --------------------------------------------------------
+// YARP Package
+// --------------------------------------------------------
+
+package yarp_pkg;
+ typedef enum logic[3:0] {
+    OP_ADD,
+    OP_SUB,
+    OP_SLL,
+    OP_SRL,
+    OP_SRA,
+    OP_OR,
+    OP_AND,
+    OP_XOR,
+    OP_SLTU,
+    OP_SLT
+  } alu_op_t;
+endpackage

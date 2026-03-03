@@ -1,0 +1,23 @@
+// --------------------------------------------------------
+// YARP: Package File
+//
+// The should contain all of the enums, structs or any other
+// common functions used while designing the YARP core
+// --------------------------------------------------------
+// --------------------------------------------------------
+// YARP Package
+// --------------------------------------------------------
+
+package yarp_pkg;
+  typedef enum logic[6:0]{
+  R_type   = 7'h33,
+  I_type_0 = 7'h03,
+  I_type_1 = 7'h13,
+  I_type_2 = 7'h67,
+  S_type   = 7'h23,
+  B_type   = 7'h63,
+  U_type_0 = 7'h37,
+  U_type_1 = 7'h17,
+  J_type   = 7'h6F
+  } rsicv_op_t;
+endpackage
